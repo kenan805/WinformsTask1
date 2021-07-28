@@ -1,0 +1,10 @@
+C:\Users\user\source\repos\DifferentTwoClockCity\HomeworkWindowsFormsApp1\bin\Debug\HomeworkWindowsFormsApp1.exe.config
+C:\Users\user\source\repos\DifferentTwoClockCity\HomeworkWindowsFormsApp1\bin\Debug\HomeworkWindowsFormsApp1.exe
+C:\Users\user\source\repos\DifferentTwoClockCity\HomeworkWindowsFormsApp1\bin\Debug\HomeworkWindowsFormsApp1.pdb
+C:\Users\user\source\repos\DifferentTwoClockCity\HomeworkWindowsFormsApp1\obj\Debug\HomeworkWindowsFormsApp1.csproj.AssemblyReference.cache
+C:\Users\user\source\repos\DifferentTwoClockCity\HomeworkWindowsFormsApp1\obj\Debug\HomeworkWindowsFormsApp1.Form1.resources
+C:\Users\user\source\repos\DifferentTwoClockCity\HomeworkWindowsFormsApp1\obj\Debug\HomeworkWindowsFormsApp1.Properties.Resources.resources
+C:\Users\user\source\repos\DifferentTwoClockCity\HomeworkWindowsFormsApp1\obj\Debug\HomeworkWindowsFormsApp1.csproj.GenerateResource.cache
+C:\Users\user\source\repos\DifferentTwoClockCity\HomeworkWindowsFormsApp1\obj\Debug\HomeworkWindowsFormsApp1.csproj.CoreCompileInputs.cache
+C:\Users\user\source\repos\DifferentTwoClockCity\HomeworkWindowsFormsApp1\obj\Debug\HomeworkWindowsFormsApp1.exe
+C:\Users\user\source\repos\DifferentTwoClockCity\HomeworkWindowsFormsApp1\obj\Debug\HomeworkWindowsFormsApp1.pdb
